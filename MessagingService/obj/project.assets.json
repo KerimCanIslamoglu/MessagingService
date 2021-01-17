@@ -9734,11 +9734,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kerim\\source\\repos\\MessagingService\\MessagingService\\MessagingService.csproj",
+      "projectUniqueName": "D:\\MessagingService\\MessagingService\\MessagingService.csproj",
       "projectName": "MessagingService",
-      "projectPath": "C:\\Users\\kerim\\source\\repos\\MessagingService\\MessagingService\\MessagingService.csproj",
+      "projectPath": "D:\\MessagingService\\MessagingService\\MessagingService.csproj",
       "packagesPath": "C:\\Users\\kerim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kerim\\source\\repos\\MessagingService\\MessagingService\\obj\\",
+      "outputPath": "D:\\MessagingService\\MessagingService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9758,11 +9758,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\kerim\\source\\repos\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj": {
-              "projectPath": "C:\\Users\\kerim\\source\\repos\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj"
+            "D:\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj": {
+              "projectPath": "D:\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj"
             },
-            "C:\\Users\\kerim\\source\\repos\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\kerim\\source\\repos\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj"
+            "D:\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj": {
+              "projectPath": "D:\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj"
             }
           }
         }

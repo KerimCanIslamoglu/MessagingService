@@ -7,3 +7,12 @@ C:\Users\kerim\source\repos\MessagingService\MessagingService.Entities\obj\Debug
 C:\Users\kerim\source\repos\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.AssemblyInfo.cs
 C:\Users\kerim\source\repos\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.dll
 C:\Users\kerim\source\repos\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.pdb
+D:\MessagingService\MessagingService.Entities\bin\Debug\netcoreapp3.1\MessagingService.Entities.deps.json
+D:\MessagingService\MessagingService.Entities\bin\Debug\netcoreapp3.1\MessagingService.Entities.dll
+D:\MessagingService\MessagingService.Entities\bin\Debug\netcoreapp3.1\MessagingService.Entities.pdb
+D:\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.csprojAssemblyReference.cache
+D:\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.csproj.CoreCompileInputs.cache
+D:\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.AssemblyInfoInputs.cache
+D:\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.AssemblyInfo.cs
+D:\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.dll
+D:\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.pdb

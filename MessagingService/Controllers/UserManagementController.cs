@@ -19,7 +19,7 @@ namespace MessagingService.Controllers
     public class UserManagementController : ControllerBase
     {
         private IBlockedUserService _blockedUserService;
-        private readonly UserManager<ApplicationUser> _userManager;
+        private UserManager<ApplicationUser> _userManager;
         private IErrorLogsService _errorLogsService;
 
         public UserManagementController(IBlockedUserService blockedUserService, UserManager<ApplicationUser> userManager, IErrorLogsService errorLogsService)

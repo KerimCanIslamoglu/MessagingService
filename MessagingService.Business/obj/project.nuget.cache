@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DhlBZr6ij4tuSsPFzkJtgQwT7CRUTADaCZKgaODfbcdnceCR/dZw5UHinGb2Wo6APEozUQGfYHocASfi+AMhCw==",
+  "dgSpecHash": "bznWtvfTSkyl20MO5pJYaf4WSH8NQ162uNU0GIyK8IeI6n5wR264f88DVuCms7xZUYymSHLyh6DlJRB7eEOrFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kerim\\source\\repos\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj",
+  "projectFilePath": "D:\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

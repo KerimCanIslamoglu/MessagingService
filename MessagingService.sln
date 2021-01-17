@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingService", "MessagingService\MessagingService.csproj", "{EC0E6D5D-DB61-4B37-AEC2-B27703249EEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingService", "MessagingService\MessagingService.csproj", "{EC0E6D5D-DB61-4B37-AEC2-B27703249EEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingService.Business", "MessagingService.Business\MessagingService.Business.csproj", "{CAFD2F12-E13A-4044-A8D5-236287ECB325}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingService.Business", "MessagingService.Business\MessagingService.Business.csproj", "{CAFD2F12-E13A-4044-A8D5-236287ECB325}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingService.DataAccess", "MessagingService.DataAccess\MessagingService.DataAccess.csproj", "{45DA69E2-A7BE-4604-89E8-63EA6B5C9E92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingService.DataAccess", "MessagingService.DataAccess\MessagingService.DataAccess.csproj", "{45DA69E2-A7BE-4604-89E8-63EA6B5C9E92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingService.Entities", "MessagingService.Entities\MessagingService.Entities.csproj", "{EC428964-CAF9-4348-946A-AE8B1501D607}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingService.Entities", "MessagingService.Entities\MessagingService.Entities.csproj", "{EC428964-CAF9-4348-946A-AE8B1501D607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingService.Test", "MessagingService.Test\MessagingService.Test.csproj", "{2ACE400F-0C21-4CB6-B0A5-A7FC2774E949}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{EC428964-CAF9-4348-946A-AE8B1501D607}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC428964-CAF9-4348-946A-AE8B1501D607}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC428964-CAF9-4348-946A-AE8B1501D607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACE400F-0C21-4CB6-B0A5-A7FC2774E949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACE400F-0C21-4CB6-B0A5-A7FC2774E949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACE400F-0C21-4CB6-B0A5-A7FC2774E949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACE400F-0C21-4CB6-B0A5-A7FC2774E949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
