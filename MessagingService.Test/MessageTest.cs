@@ -30,7 +30,7 @@ namespace MessagingService.Test
 
             mockMessageDal.Setup(mr => mr.GetAll(null)).Returns(messageList);
 
-            mockMessageDal.Setup(mr => mr.GetById(It.IsAny<int>())).Returns((int i) => messageList.Single(x => x.Id == i));
+            mockMessageDal.Setup(mr => mr.GetById(It.IsAny<int>())).Returns((int i) => messageList.SingleOrDefault(x => x.Id == i));
 
             mockMessageDal.Setup(mr => mr.GetOldMessagesByUserToName(It.IsAny<string>(), It.IsAny<string>())).Returns(messageList);
 
@@ -119,6 +119,26 @@ namespace MessagingService.Test
             Assert.AreEqual(actual.UserFrom, expected.UserFrom);
             Assert.AreEqual(actual.UserTo, expected.UserTo);
             Assert.AreEqual(actual.MessageDetail, expected.MessageDetail);
+        }
+
+        [Test]
+        public void MessageService_GetMessageById_ShouldNotReturnNull()
+        {
+            var expected = _mockMessageDal.Object.GetById(1);
+           
+            Assert.IsNotNull(expected);
+            Assert.AreEqual(expected.UserFrom, "Test1");
+            Assert.AreEqual(expected.UserTo, "Test2");
+            Assert.AreEqual(expected.MessageDetail, "TestDetail1");
+        }
+
+        [TestCase(3,ExpectedResult =null)]
+        [TestCase(4,ExpectedResult =null)]
+        [TestCase(5,ExpectedResult =null)]
+        [Test]
+        public Message MessageService_GetMessageByWrongId_ShouldReturnNull(int id)
+        {
+            return _mockMessageDal.Object.GetById(id);
         }
     }
 }

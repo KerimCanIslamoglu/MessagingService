@@ -25,7 +25,7 @@ namespace MessagingService.Test
 
             mockErrorLogsDal.Setup(mr => mr.GetAll(null)).Returns(errorLogsList);
 
-            mockErrorLogsDal.Setup(mr => mr.GetById(It.IsAny<int>())).Returns((int i) => errorLogsList.Single(x => x.Id == i));
+            mockErrorLogsDal.Setup(mr => mr.GetById(It.IsAny<int>())).Returns((int i) => errorLogsList.SingleOrDefault(x => x.Id == i));
 
             mockErrorLogsDal.Setup(mr => mr.Create(It.IsAny<ErrorLogs>())).Callback(
                (ErrorLogs target) =>
@@ -97,6 +97,26 @@ namespace MessagingService.Test
             Assert.AreEqual(actual.ErrorDetail, expected.ErrorDetail);
             Assert.AreEqual(actual.MethodName, expected.MethodName);
             Assert.AreEqual(actual.UserName, expected.UserName);
+        }
+
+        [Test]
+        public void ErrorLog_GetErrorLogById_ShouldNotReturnNull()
+        {
+            var expected = _mockErrorLogsDal.Object.GetById(1);
+
+            Assert.IsNotNull(expected);
+            Assert.AreEqual(expected.ErrorDetail, "Test1");
+            Assert.AreEqual(expected.MethodName, "TestMethod1");
+            Assert.AreEqual(expected.UserName, "Test1");
+        }
+
+        [TestCase(3, ExpectedResult = null)]
+        [TestCase(4, ExpectedResult = null)]
+        [TestCase(5, ExpectedResult = null)]
+        [Test]
+        public ErrorLogs ErrorLog_GetErrorLogByWrongId_ShouldReturnNull(int id)
+        {
+            return _mockErrorLogsDal.Object.GetById(id);
         }
     }
 }
