@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MSYowZg6ogMP5gnSz42RaL4Cz9ShM43FzV96YBSwSzjZzoLcXb4nXkY/X5VZO6xJ4dkgADAPDQI5KQzGg7DCmQ==",
+  "dgSpecHash": "IKQELvFg60QsQmV9DnUCMpFKqiJjefXmSDZJBe8JXXbdb5P2EBoehPW3mjHpOCB3peLFH+4TJIILJAtRg4FOQA==",
   "success": true,
-  "projectFilePath": "D:\\MessagingService\\MessagingService.Test\\MessagingService.Test.csproj",
+  "projectFilePath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.Test\\MessagingService.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kerim\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

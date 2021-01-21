@@ -6592,11 +6592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj",
       "projectName": "MessagingService.DataAccess",
-      "projectPath": "D:\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj",
+      "projectPath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj",
       "packagesPath": "C:\\Users\\kerim\\.nuget\\packages\\",
-      "outputPath": "D:\\MessagingService\\MessagingService.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6616,8 +6616,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\MessagingService\\MessagingService.Entities\\MessagingService.Entities.csproj": {
-              "projectPath": "D:\\MessagingService\\MessagingService.Entities\\MessagingService.Entities.csproj"
+            "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.Entities\\MessagingService.Entities.csproj": {
+              "projectPath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.Entities\\MessagingService.Entities.csproj"
             }
           }
         }

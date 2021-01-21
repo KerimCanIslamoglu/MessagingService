@@ -26,3 +26,17 @@ D:\MessagingService\MessagingService.Business\obj\Debug\netcoreapp3.1\MessagingS
 D:\MessagingService\MessagingService.Business\obj\Debug\netcoreapp3.1\MessagingService.Business.csproj.CopyComplete
 D:\MessagingService\MessagingService.Business\obj\Debug\netcoreapp3.1\MessagingService.Business.dll
 D:\MessagingService\MessagingService.Business\obj\Debug\netcoreapp3.1\MessagingService.Business.pdb
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\bin\Debug\netcoreapp3.1\MessagingService.Business.deps.json
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\bin\Debug\netcoreapp3.1\MessagingService.Business.dll
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\bin\Debug\netcoreapp3.1\MessagingService.Business.pdb
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\bin\Debug\netcoreapp3.1\MessagingService.DataAccess.dll
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\bin\Debug\netcoreapp3.1\MessagingService.Entities.dll
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\bin\Debug\netcoreapp3.1\MessagingService.DataAccess.pdb
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\bin\Debug\netcoreapp3.1\MessagingService.Entities.pdb
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\obj\Debug\netcoreapp3.1\MessagingService.Business.csprojAssemblyReference.cache
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\obj\Debug\netcoreapp3.1\MessagingService.Business.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\obj\Debug\netcoreapp3.1\MessagingService.Business.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\obj\Debug\netcoreapp3.1\MessagingService.Business.AssemblyInfo.cs
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\obj\Debug\netcoreapp3.1\MessagingService.Business.csproj.CopyComplete
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\obj\Debug\netcoreapp3.1\MessagingService.Business.dll
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Business\obj\Debug\netcoreapp3.1\MessagingService.Business.pdb

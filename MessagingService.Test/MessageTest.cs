@@ -21,9 +21,6 @@ namespace MessagingService.Test
             var messageList = new List<Message>
             {
                 new Message {Id=1,MessageDetail="TestDetail1",SendedAt=DateTime.Now,UserFrom="Test1",UserTo="Test2"},
-                //new Message {Id=2,MessageDetail="TestDetail2",SendedAt=DateTime.Now,UserFrom="Test3",UserTo="Test4"},
-                //new Message {Id=3,MessageDetail="TestDetail3",SendedAt=DateTime.Now,UserFrom="Test5",UserTo="Test6"},
-
             };
 
             var mockMessageDal = new Mock<IMessageDal>();

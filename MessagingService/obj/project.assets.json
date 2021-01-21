@@ -9734,11 +9734,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MessagingService\\MessagingService\\MessagingService.csproj",
+      "projectUniqueName": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService\\MessagingService.csproj",
       "projectName": "MessagingService",
-      "projectPath": "D:\\MessagingService\\MessagingService\\MessagingService.csproj",
+      "projectPath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService\\MessagingService.csproj",
       "packagesPath": "C:\\Users\\kerim\\.nuget\\packages\\",
-      "outputPath": "D:\\MessagingService\\MessagingService\\obj\\",
+      "outputPath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9758,11 +9758,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj": {
-              "projectPath": "D:\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj"
+            "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj": {
+              "projectPath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj"
             },
-            "D:\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj": {
-              "projectPath": "D:\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj"
+            "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj"
             }
           }
         }

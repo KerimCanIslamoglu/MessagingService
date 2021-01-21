@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fZOdMiKwId9xwwd2WuAjxqGDTE14/lv4TGxJb4h9VS1m0bpZ11mvNDZZZRtwVCrZs2lvi+IZgLxf62RIVjb5zg==",
+  "dgSpecHash": "UvDp1bhF0j/kjOHuSH0zpG24kbWnr+iP+4ghA74ndo6JmuDTHhtMqf5jFF4yVtCRODRNlMrA1t6FwtI8k+KzqQ==",
   "success": true,
-  "projectFilePath": "D:\\MessagingService\\MessagingService\\MessagingService.csproj",
+  "projectFilePath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService\\MessagingService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kerim\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kerim\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",

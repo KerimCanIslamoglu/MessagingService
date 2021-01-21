@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingService.DataAccess
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingService.Entities", "MessagingService.Entities\MessagingService.Entities.csproj", "{EC428964-CAF9-4348-946A-AE8B1501D607}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingService.Test", "MessagingService.Test\MessagingService.Test.csproj", "{2ACE400F-0C21-4CB6-B0A5-A7FC2774E949}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingService.Test", "MessagingService.Test\MessagingService.Test.csproj", "{2ACE400F-0C21-4CB6-B0A5-A7FC2774E949}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{A47866A1-A3F9-410C-AA19-83AEFF8017B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2ACE400F-0C21-4CB6-B0A5-A7FC2774E949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ACE400F-0C21-4CB6-B0A5-A7FC2774E949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ACE400F-0C21-4CB6-B0A5-A7FC2774E949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A47866A1-A3F9-410C-AA19-83AEFF8017B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47866A1-A3F9-410C-AA19-83AEFF8017B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47866A1-A3F9-410C-AA19-83AEFF8017B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47866A1-A3F9-410C-AA19-83AEFF8017B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  messagingservice:
+    image: ${DOCKER_REGISTRY-}messagingservice
+    build:
+      context: .
+      dockerfile: MessagingService/Dockerfile

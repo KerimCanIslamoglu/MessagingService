@@ -16,3 +16,12 @@ D:\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingS
 D:\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.AssemblyInfo.cs
 D:\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.dll
 D:\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.pdb
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Entities\bin\Debug\netcoreapp3.1\MessagingService.Entities.deps.json
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Entities\bin\Debug\netcoreapp3.1\MessagingService.Entities.dll
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Entities\bin\Debug\netcoreapp3.1\MessagingService.Entities.pdb
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.csprojAssemblyReference.cache
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.AssemblyInfo.cs
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.dll
+C:\Users\kerim\source\repos\KerimCanIslamoglu\MessagingService\MessagingService.Entities\obj\Debug\netcoreapp3.1\MessagingService.Entities.pdb

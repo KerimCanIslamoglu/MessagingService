@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bznWtvfTSkyl20MO5pJYaf4WSH8NQ162uNU0GIyK8IeI6n5wR264f88DVuCms7xZUYymSHLyh6DlJRB7eEOrFw==",
+  "dgSpecHash": "iiKTzwD18DhUKBckXWJ+l1MMUwbjTnp4YbYDtqTQrxGMYOrUz55cQM+ZswkPt+cN9Rqv6dazHjPryTc6oLoF3A==",
   "success": true,
-  "projectFilePath": "D:\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj",
+  "projectFilePath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

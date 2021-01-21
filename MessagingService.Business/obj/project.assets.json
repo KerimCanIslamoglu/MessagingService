@@ -6516,11 +6516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj",
+      "projectUniqueName": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj",
       "projectName": "MessagingService.Business",
-      "projectPath": "D:\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj",
+      "projectPath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.Business\\MessagingService.Business.csproj",
       "packagesPath": "C:\\Users\\kerim\\.nuget\\packages\\",
-      "outputPath": "D:\\MessagingService\\MessagingService.Business\\obj\\",
+      "outputPath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6540,11 +6540,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj": {
-              "projectPath": "D:\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj"
+            "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.DataAccess\\MessagingService.DataAccess.csproj"
             },
-            "D:\\MessagingService\\MessagingService.Entities\\MessagingService.Entities.csproj": {
-              "projectPath": "D:\\MessagingService\\MessagingService.Entities\\MessagingService.Entities.csproj"
+            "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.Entities\\MessagingService.Entities.csproj": {
+              "projectPath": "C:\\Users\\kerim\\source\\repos\\KerimCanIslamoglu\\MessagingService\\MessagingService.Entities\\MessagingService.Entities.csproj"
             }
           }
         }
