@@ -5,7 +5,7 @@
 
 ## Authenticate
 **api/Authenticate/Register**
-**POST**
+**(POST)**
 username ve password adında 2 tane parametre ile çalışır. password parametresi en az 1 büyük harf ve özel karakter istemektedir. Bu method sonucunda kullanıcı oluşturulur.
 ```
 {
@@ -16,7 +16,7 @@ username ve password adında 2 tane parametre ile çalışır. password parametr
 
 
 **api/Authenticate/Login**
-**POST**
+**(POST)**
 username ve password adında 2 tane parametre ile çalışır. Kullanıcı adı ve şifre doğru ise Bearer Token döndürür.
 ```
 {
@@ -29,7 +29,7 @@ username ve password adında 2 tane parametre ile çalışır. Kullanıcı adı 
 
 ## Message
 **api/Message/GetOldMessages**
-**GET**
+**(GET)**
 userToName adında string bir parametre ile çalışır. Sonuç olarak authenticate olmuş kullanıcı ile userToName parametresinde verilen kullanıcı ile olan mesajlar döner.
 ```
 {
@@ -39,7 +39,7 @@ userToName adında string bir parametre ile çalışır. Sonuç olarak authentic
 
 
 **api/Message/SendMessage**
-**POST**
+**(POST)**
 message ve userTo adında 2 adet parametre ile çalışır. Authenticate olmuş kullanıcıdan, userTo parametresinde belirtilen kullanıcıya mesaj atılmasını sağlar.
 
 ```
@@ -50,7 +50,7 @@ message ve userTo adında 2 adet parametre ile çalışır. Authenticate olmuş 
 ```
 ## UserManagement
 **api/UserManagement/BlockUser**
-**POST**
+**(POST)**
 blockedUserName adında string bir parametre ile çalışır. Authenticate olmuş kullanıcı, blockedUserName parametresi ile gelen kullanıcıyı bloklamış olur. Bunun sonucunda blockedUserName parametresi ile gelen kullanıcı, authenticate olmuş kullanıcıya mesaj atamaz.
 
 ```
